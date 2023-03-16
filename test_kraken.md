@@ -1,1 +1,1 @@
-create test file in GitKraken
+new text in bash
